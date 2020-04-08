@@ -1,0 +1,30 @@
+html, body {
+    padding: 0px;
+    margin: 0px;
+    height: 100%;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-weight: 300;
+    color: #555;
+}
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-self: stretch;
+    flex-grow: 1;    
+}
+div[root] {
+    height: 100%;
+}
+div[shrink] {
+    flex-grow: 0;
+}
+div[vstack] {
+    flex-direction: column;
+}
+div[hstack] {
+    flex-direction: row;
+}
+div[space] {
+    flex-grow: 999999;
+}
