@@ -52,7 +52,6 @@ Let's say you have a collection of nested div elements. You want some to be vert
 - `hstack`: horizontally align child contents
 - `space`: Takes up vertical or horizontal space in a greedy fashion
 - `shrink`: combine with hstack or vstack to "shrink wrap" the contents
-- `root`: place this attribute on the single root element of the layout
 
 # Notes
 
