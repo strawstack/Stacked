@@ -1,6 +1,6 @@
 # Stacked
 
-Add simple attributes to HTML elements to create complex layouts.
+Add attributes to HTML and create complex layouts
 
 # Live Demo
 
