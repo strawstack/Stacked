@@ -4,7 +4,7 @@ Add simple attributes to HTML to create complex layouts
 
 # Live Demo
 
-[View Live Demo](https://regularmemory.blog/Stacked/)
+[View Live Demo](https://strawstack.github.io/Stacked/)
 
 See `index.html` for the demo's markup
 
